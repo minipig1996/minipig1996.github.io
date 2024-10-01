@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photoZhu.jpg"
+  avatar           : "images/photoZhu.jpg"
   name             : "朱少川"
   pronouns         : "he/his"  
   bio              : "北京航空航天大学工学博士"
