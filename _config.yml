@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-CN"
+title                    : "SCZHU's CV"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,18 +25,14 @@ author:
   name             : "朱少川"
   pronouns         : "he/his"  
   bio              : "北京航空航天大学工学博士"
-  location         : "Beijing"
+  location         : ""
   employer         : "Beihang University"
   uri              : # URL
   email            : "sczhu@buaa.edu.cn" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
