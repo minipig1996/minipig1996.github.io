@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "简介"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ redirect_from:
 2018.09 ~ 至今     北京航空航天大学   电子信息工程学院  工学博士  
 交通信息工程及控制专业(航空优化与决策)，主修智能优化方法、数据挖掘、多源数据融合、现代控制理论等  
 毕业论文：扰动条件下机场停机位鲁棒分配方法研究   
-***
+---
 2014.09 ~ 2018.06  福州大学          交通运输工程系    工学学士 
 交通工程专业，主修微积分、概率论与数理统计、数值计算方法、运筹学等  
 毕业论文：基于分层前馈网络的交通需求预测模型研究 (校优秀毕业论文)   
@@ -23,25 +23,9 @@ redirect_from:
 *理论研究：  
     最优化理论：整数规划、列生成、网络流优化、启发式算法等  
     数据科学：时序预测、无监督学习、强化学习等  
-***
+---
 *应用研究：  
     精准认知：空域态势评估、轨迹预测  
     智能决策：无人机任务规划、航班运行调度  
 
-
-Site-wide configuration
-------
-
-
-
-**Markdown generator**
-
-
-
-How to edit your site's GitHub repository
-------
-
-
-For more info
-------
 
