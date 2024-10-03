@@ -34,11 +34,11 @@ redirect_from:
 ---
 ## 主要研究成果
 - 期刊/会议论文 
-[1] Robust gate assignment to minimise aircraft conflicts. Transportmetrica B: Transport Dynamics, 11(1). 
-[2] Optimizing aircraft-gate reassignment following airport disruptions: A hierarchical column-and-row generation approach. Chinese Journal of Aeronautics. 
-[3] 基于Epsilon约束列生成的机场停机位应急调整[J]. 北京航空航天大学学报.
-[4] 基于核主成分分析的空域复杂度无监督评估[J]. 航空学报,2019,40(8):236-242. 
-[5] A Column Generation-Based Approach for Robust Gate Assignment Problem Considering Delay Heterogeneity. World Transport Convention 2023. (优秀论文)
+[1] Robust gate assignment to minimise aircraft conflicts. Transportmetrica B: Transport Dynamics, 11(1).  
+[2] Optimizing aircraft-gate reassignment following airport disruptions: A hierarchical column-and-row generation approach. Chinese Journal of Aeronautics.  
+[3] 基于Epsilon约束列生成的机场停机位应急调整[J]. 北京航空航天大学学报.  
+[4] 基于核主成分分析的空域复杂度无监督评估[J]. 航空学报,2019,40(8):236-242.   
+[5] A Column Generation-Based Approach for Robust Gate Assignment Problem Considering Delay Heterogeneity. World Transport Convention 2023. (优秀论文)  
 
 - 发明专利  
 [1] 一种机场资源调度的鲁棒优化方法:CN202210274301.8. 2022-04-15. 
@@ -49,18 +49,18 @@ redirect_from:
 
 ---
 ## 主要科研项目
-[1] 国家重点研发计划课题，无人机反制关键技术与装备研发(警用无人机)，重点参与
-[2] 国自然联合基金，突发事件下机场协同调控关键技术，重点参与
-[3] 国家交通XXX项目群，(I)XX大数据平台建设与应用示范；(II)XX数据汇聚与分析，重点参与
-[4] XXXX重点项目，约束条件下的XXXX计算技术(空)，重点参与 
-[5] XXXX重点项目课题，XXXX智能化XX认识技术(海)，参与
-[6] XXXX重点项目课题，XXXX协同规划与控制技术(自组网)，参与
+[1] 国家重点研发计划课题，无人机反制关键技术与装备研发(警用无人机)，重点参与  
+[2] 国自然联合基金，突发事件下机场协同调控关键技术，重点参与  
+[3] 国家交通XXX项目群，(I)XX大数据平台建设与应用示范；(II)XX数据汇聚与分析，重点参与  
+[4] XXXX重点项目，约束条件下的XXXX计算技术(空)，重点参与   
+[5] XXXX重点项目课题，XXXX智能化XX认识技术(海)，参与 
+[6] XXXX重点项目课题，XXXX协同规划与控制技术(自组网)，参与 
 
 
 ---
 ## 获得奖励
-- 中国"互联网+"创新创业大赛北京赛区 银奖
-- 世界交通运输大会(WTC2023) 优秀论文奖
-- 全国大学生节能减排社会实践与科技竞赛 三等奖
-- 中国研究生数学建模大赛 三等奖
-- 优秀研究生、优秀共青团员、本科优秀毕业论文、研究生一等奖学金，等
+- 中国"互联网+"创新创业大赛北京赛区 银奖  
+- 世界交通运输大会(WTC2023) 优秀论文奖  
+- 全国大学生节能减排社会实践与科技竞赛 三等奖  
+- 中国研究生数学建模大赛 三等奖  
+- 优秀研究生、优秀共青团员、本科优秀毕业论文、研究生一等奖学金，等 
