@@ -12,7 +12,7 @@ title                    : "SCZHU's CV"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://minipig1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sczhu2024.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "photoZhu.png"
   name             : "朱少川"
-  pronouns         : "he/his"  
+  # pronouns         : "he/his"  
   bio              : "北京航空航天大学工学博士"
   location         : ""
   employer         : "Beihang University"
@@ -34,7 +34,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   orcid            : "http://orcid.org/yourorcidurl"
   researchgate     : # URL
-  github           : "minipig1996"
+  github           : "sczhu2024"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
