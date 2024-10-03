@@ -33,14 +33,14 @@ redirect_from:
 
 ---
 ## 主要研究成果
-- 期刊/会议论文 
+- 期刊/会议论文   
 [1] Robust gate assignment to minimise aircraft conflicts. Transportmetrica B: Transport Dynamics, 11(1).  
 [2] Optimizing aircraft-gate reassignment following airport disruptions: A hierarchical column-and-row generation approach. Chinese Journal of Aeronautics.  
 [3] 基于Epsilon约束列生成的机场停机位应急调整[J]. 北京航空航天大学学报.  
 [4] 基于核主成分分析的空域复杂度无监督评估[J]. 航空学报,2019,40(8):236-242.   
 [5] A Column Generation-Based Approach for Robust Gate Assignment Problem Considering Delay Heterogeneity. World Transport Convention 2023. (优秀论文)  
 
-- 发明专利  
+- 发明专利   
 [1] 一种机场资源调度的鲁棒优化方法:CN202210274301.8. 2022-04-15. 
 [2] 一种航班航迹预测方法:CN202010394699.X. 2020-06-16.  
 [3] 一种基于四维航迹的货运航班调度方法和装置:CN201811635111.4. 2020-05-19.  
@@ -54,7 +54,7 @@ redirect_from:
 [3] 国家交通XXX项目群，(I)XX大数据平台建设与应用示范；(II)XX数据汇聚与分析，**重点参与**  
 [4] XXXX重点项目，约束条件下的XXXX计算技术(空)，重点参与   
 [5] XXXX重点项目课题，XXXX智能化XX认识技术(海)，参与   
-[6] XXXX重点项目课题，XXXX协同规划与控制技术(自组网)，参与 
+[6] XXXX重点项目课题，XXXX协同规划与控制技术(网)，参与 
 
 
 ---
